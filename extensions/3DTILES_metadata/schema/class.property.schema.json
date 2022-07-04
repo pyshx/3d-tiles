@@ -39,6 +39,7 @@
       "description": "An enum ID as declared in the `enums` dictionary. This value must be specified when `type` or `componentType` is `ENUM`."
     },
     "componentType": {
+      "type": "string",
       "enum": [
         "INT8",
         "UINT8",
