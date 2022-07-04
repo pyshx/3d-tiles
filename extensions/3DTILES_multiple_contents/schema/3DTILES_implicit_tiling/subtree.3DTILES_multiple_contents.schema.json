@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema",
-  "title": "3DTILES_multiple_contents extension for 3DTILES_implicit_tiling subtree",
+  "title": "3DTILES_multiple_contents extension for 3DTILES_implicit_tiling subtree legacy",
   "type": "object",
   "description": "Content availability for the `3DTILES_multiple_contents` extension.",
   "properties": {

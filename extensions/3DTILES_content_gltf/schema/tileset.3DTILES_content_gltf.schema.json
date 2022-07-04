@@ -1,6 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema",
-    "title": "3DTILES_content_gltf extension",
+    "title": "3DTILES_content_gltf extension legacy",
     "type": "object",
     "description": "3D Tiles extension that allows a tileset to use glTF models directly as tile content.",
     "properties" : {
