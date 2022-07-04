@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft-04/schema",
-  "title": "Schema ",
+  "title": "Schema in 3DTILES_metadata legacy",
   "type": "object",
   "description": "An object defining classes and enums.",
   "properties": {

@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft-04/schema",
-  "title": "Property Statistics",
+  "title": "Property Statistics in 3DTILES_metadata legacy",
   "type": "object",
   "description": "Statistics about property values.",
   "properties": {

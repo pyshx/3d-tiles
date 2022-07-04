@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft-04/schema",
-  "title": "3DTILES_metadata content extension",
+  "title": "3DTILES_metadata tile content extension legacy",
   "type": "object",
   "description": "An object containing metadata about a content.",
   "properties": {

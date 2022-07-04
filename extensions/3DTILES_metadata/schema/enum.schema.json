@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema",
-  "title": "Enum",
+  "title": "Enum in 3DTILES_metadata legacy",
   "type": "object",
   "description": "An object defining the values of an enum.",
   "properties": {

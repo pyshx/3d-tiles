@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema",
-  "title": "Availability",
+  "title": "Availability in 3DTILES_implicit_tiling legacy",
   "type": "object",
   "description": "An object describing the availability of a set of elements.",
   "properties": {

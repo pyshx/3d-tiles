@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft-04/schema",
-  "title": "3DTILES_metadata tile extension",
+  "title": "3DTILES_metadata tile extension legacy",
   "type": "object",
   "description": "An object containing metadata about a tile. This extension must not be added to tiles using the `3DTILES_implicit_tiling` extension since tile metadata is provided separately in the subtrees.",
   "properties": {

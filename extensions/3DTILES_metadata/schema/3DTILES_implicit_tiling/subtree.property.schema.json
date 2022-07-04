@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema",
-  "title": "Subtree property values",
+  "title": "Subtree Property in 3DTILES_metadata legacy",
   "type": "object",
   "description": "An array of binary property values.",
   "properties": {

@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema",
-  "title": "Subtree",
+  "title": "Subtree in 3DTILES_implicit_tiling legacy",
   "type": "object",
   "description": "An object describing the availability of tiles and content in a subtree, as well as availability of children subtrees.",
   "properties": {

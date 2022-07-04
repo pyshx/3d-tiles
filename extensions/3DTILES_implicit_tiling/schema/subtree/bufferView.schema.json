@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema",
-  "title": "Buffer View",
+  "title": "Buffer View in 3DTILES_implicit_tiling legacy",
   "type": "object",
   "description": "A contiguous subset of a buffer",
   "properties": {

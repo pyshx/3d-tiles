@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema",
-  "title": "Class",
+  "title": "Class in 3DTILES_metadata legacy",
   "type": "object",
   "description": "A class containing a set of properties.",
   "properties": {

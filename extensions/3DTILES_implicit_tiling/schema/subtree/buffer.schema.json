@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema",
-  "title": "Buffer",
+  "title": "Buffer in 3DTILES_implicit_tiling legacy",
   "type": "object",
   "description": "A buffer is a binary blob. It is either the binary chunk of the subtree file, or an external buffer referenced by a URI",
   "properties": {

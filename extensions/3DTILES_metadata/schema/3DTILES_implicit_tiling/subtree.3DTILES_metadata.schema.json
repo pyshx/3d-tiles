@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft-04/schema",
-  "title": "3DTILES_metadata extension for 3DTILES_implicit_tiling subtree",
+  "title": "3DTILES_metadata extension for 3DTILES_implicit_tiling subtree legacy",
   "type": "object",
   "description": "An object assigning tile metadata to implicit tiles in the subtree. Tile metadata only exists for available tiles and is tightly packed by increasing tile index. To access individual tile metadata, implementations may create a mapping from tile indices to tile metadata indices.",
   "properties": {

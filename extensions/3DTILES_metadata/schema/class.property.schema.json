@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema",
-  "title": "Class property",
+  "title": "Class Property in 3DTILES_metadata legacy",
   "type": "object",
   "description": "A class property.",
   "properties": {

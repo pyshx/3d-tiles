@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema",
-  "title": "3DTILES_implicit_tiling tile extension",
+  "title": "3DTILES_implicit_tiling tile extension legacy",
   "type": "object",
   "description": "This extension allows a tile to be implicitly subdivided. Tile and content availability is stored in subtrees which are referenced externally.",
   "properties": {

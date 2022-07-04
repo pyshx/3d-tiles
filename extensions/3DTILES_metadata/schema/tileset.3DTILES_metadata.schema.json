@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft-04/schema",
-  "title": "3DTILES_metadata 3D Tiles extension",
+  "title": "3DTILES_metadata 3D Tiles extension legacy",
   "type": "object",
   "description": "3D Tiles extension that defines metadata for a tileset.",
   "properties": {

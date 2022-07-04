@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft-04/schema",
-  "title": "Class Statistics",
+  "title": "Class Statistics in 3DTILES_metadata legacy",
   "type": "object",
   "description": "Statistics about entities that conform to the class.",
   "properties": {
