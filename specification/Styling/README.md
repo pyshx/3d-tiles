@@ -168,7 +168,7 @@ A define expression may not reference other defines; however, it may reference f
 ```json
 {
     "defines" : {
-        "Height" : "${Height}/2.0}",
+        "Height" : "${Height}/2.0",
     },
     "color" : {
         "conditions" : [
